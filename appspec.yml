@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files:
   - source: /index.html
-    #destination: /var/www/html/chennai
+    destination: /var/www/html/chennai
     
-    destination: /usr/share/nginx/html/
+    #destination: /usr/share/nginx/html/
     #hooks:
     #  BeforeInstall:
     #    - location: scripts/install_dependencies
