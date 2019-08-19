@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /index.html
-    destination: /var/www/html/test
+    destination: /var/www/html/code
     
     #destination: /usr/share/nginx/html/
     #hooks:
